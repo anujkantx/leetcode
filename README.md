@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anujkantx/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujkantx/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/anujkantx/leetcode/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/anujkantx/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anujkantx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anujkantx/leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/anujkantx/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -35,9 +36,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anujkantx/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujkantx/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/anujkantx/leetcode/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/anujkantx/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anujkantx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/anujkantx/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anujkantx/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anujkantx/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anujkantx/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
