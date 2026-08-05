@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anujkantx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anujkantx/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anujkantx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anujkantx/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
@@ -71,9 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anujkantx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3731-find-missing-elements](https://github.com/anujkantx/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/anujkantx/leetcode/tree/master/1920-build-array-from-permutation) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anujkantx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
