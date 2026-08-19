@@ -2,33 +2,40 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         int n = height.size();
-        int tw = 0;
-        int left = 0;
-        int right = n-1;
-        int maxleft = 0; //height
-        int maxright = 0; //height
-
-        while(left<=right){
-            if(height[left]<=height[right]){
-                //left process
-                if(height[left]<maxleft){
-                    tw += maxleft - height[left];
-                    left++;
-                }else{
-                    maxleft = height[left];
-                    left++;
-                }
-            }else{
-                // right process
-                if(height[right]<maxright){
-                    tw += maxright - height[right];
-                    right--;
-                }else{
-                    maxright = height[right];
-                    right--;
-                }
+        
+        // Find global maximum index
+        int maxIndex = 0;
+        
+        for (int i = 1; i < n; i++) {
+            if (height[i] > height[maxIndex]) {
+                maxIndex = i;
             }
         }
-        return tw;
+
+        int water = 0;
+
+        // Process left side
+        int maxLeft = 0;
+
+        for (int i = 0; i < maxIndex; i++) {
+            if (height[i] >= maxLeft) {
+                maxLeft = height[i];
+            } else {
+                water += maxLeft - height[i];
+            }
+        }
+
+        // Process right side
+        int maxRight = 0;
+
+        for (int i = n - 1; i > maxIndex; i--) {
+            if (height[i] >= maxRight) {
+                maxRight = height[i];
+            } else {
+                water += maxRight - height[i];
+            }
+        }
+
+        return water;
     }
 };
