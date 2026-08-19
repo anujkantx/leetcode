@@ -15,7 +15,7 @@ public:
                     tw += maxleft - height[left];
                     left++;
                 }else{
-                    maxleft = max(maxleft, height[left] );
+                    maxleft = height[left];
                     left++;
                 }
             }else{
@@ -24,7 +24,7 @@ public:
                     tw += maxright - height[right];
                     right--;
                 }else{
-                    maxright = max(maxright, height[right]);
+                    maxright = height[right];
                     right--;
                 }
             }
