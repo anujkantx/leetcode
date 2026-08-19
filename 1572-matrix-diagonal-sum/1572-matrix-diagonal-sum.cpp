@@ -5,11 +5,11 @@ public:
         int sum=0;
 
         for (int i=0; i<n; i++){
-            for(int j=0; j<n; j++){
-                if(i==j || j == n-i-1){
-                    sum+=mat[i][j];
-                }
-            }
+           int j = n-i-1;
+           sum+=mat[i][i] + mat[i][j];
+           if(i==j){
+            sum-=mat[i][i];
+           }
         }
         return sum;
         
