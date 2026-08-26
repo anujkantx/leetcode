@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anujkantx/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/anujkantx/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/anujkantx/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anujkantx/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anujkantx/leetcode/tree/master/0054-spiral-matrix) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anujkantx/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/anujkantx/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujkantx/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/anujkantx/leetcode/tree/master/0704-binary-search) |
