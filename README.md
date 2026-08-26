@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anujkantx/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujkantx/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anujkantx/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/anujkantx/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/anujkantx/leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/anujkantx/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/anujkantx/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anujkantx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anujkantx/leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/anujkantx/leetcode/tree/master/1768-merge-strings-alternately) |
