@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anujkantx/leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/anujkantx/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/anujkantx/leetcode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/anujkantx/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anujkantx/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anujkantx/leetcode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/anujkantx/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/anujkantx/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anujkantx/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
