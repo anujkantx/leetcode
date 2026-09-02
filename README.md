@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/anujkantx/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anujkantx/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3731-find-missing-elements](https://github.com/anujkantx/leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anujkantx/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anujkantx/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anujkantx/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/anujkantx/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anujkantx/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
