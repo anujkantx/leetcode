@@ -3,17 +3,19 @@ public:
 long long countCommas(long long n) {
         long long comma = 0;
         if( n <999) return 0;
+        long long z = 999;
         long long x = 999999;
         int i=1;
         while(true){
             if(n<=x){
-                comma += (n-(x%(long long)pow(10, 3*i))) *i;
+                comma += (n-z)*i;
                 return comma;
             }
             if (n>x){
-                comma += (x-(x%(long long)pow(10, 3*i))) *i;
+                comma += (x-z)*i;
                 i++;
                 x= x*1000+999;
+                z= z*1000+999;
             }
         }
         return comma;
