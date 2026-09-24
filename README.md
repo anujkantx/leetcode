@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/anujkantx/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anujkantx/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anujkantx/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/anujkantx/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/anujkantx/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/anujkantx/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anujkantx/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujkantx/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujkantx/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/anujkantx/leetcode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/anujkantx/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
