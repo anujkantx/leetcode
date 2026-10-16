@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anujkantx/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anujkantx/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anujkantx/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/anujkantx/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anujkantx/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujkantx/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujkantx/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anujkantx/leetcode/tree/master/0078-subsets) |
 | [2351-first-letter-to-appear-twice](https://github.com/anujkantx/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anujkantx/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
@@ -209,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anujkantx/leetcode/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anujkantx/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
